@@ -77,7 +77,7 @@ The project uses essential tools from the Python ML ecosystem:
 1. Install dependencies:
    ```bash
    pip install numpy pandas scikit-learn
-```
+   ```
 
 2. Run the Jupyter Notebook:
 
