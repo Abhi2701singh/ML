@@ -78,4 +78,5 @@ You can further improve the model using scaling, PCA, or advanced algorithms (SV
 ---
 
 ## 🙌 Author
-Machine Learning Project — Sonar Rock vs Mine Classification  
+**Abhinav Singh**  
+GitHub: https://github.com/Abhi2701singh  
