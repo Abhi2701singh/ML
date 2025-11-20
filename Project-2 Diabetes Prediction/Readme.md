@@ -96,6 +96,7 @@ With proper scaling and balanced splitting, it achieves **~77% accuracy**, makin
 
 ## 👨‍💻 Author
 
-Machine Learning Project — Diabetes Prediction
+**Abhinav Singh**  
+GitHub: https://github.com/Abhi2701singh
 
 
